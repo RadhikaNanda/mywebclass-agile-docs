@@ -3,5 +3,5 @@
 
 
 # List initiatives related to this theme
-1. [Devops for edu tech website for kids for continous integration delivery with testing](documentation/templates/theme/initiatives/initiative_template1.md)
-2. [Create edu tech website for kids with legal standards/COPPA adherance and integrated google analytics to track user behaviour](documentation/templates/theme/initiatives/initiative_template.md)
+1. [Devops for edu tech website for kids for continous integration delivery with testing](initiatives/initiative_template1.md)
+2. [Create edu tech website for kids with legal standards/COPPA adherance and integrated google analytics to track user behaviour](initiatives/initiative_template.md)
