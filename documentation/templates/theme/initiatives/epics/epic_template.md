@@ -1,20 +1,23 @@
-"Title of the Epic"
+"Create Devops process"
 
-Description: [A brief description of the epic]
+Description: Make a devops process for your tech ed website
 
-Goals: [List the high-level goals or objectives of the epic]
+Goals: A end to end working devops process
 
-User Stories: [List the user stories that will help achieve the goals of the epic]
+User Stories: 1. Create CI and CD. Each code branch merged should run githb actions
+              2. List of all tests organized as test suites to test each section of webpage
+              3. Integrate CI/CD and testsuite
+Dependencies: Understanding Playwrite/lighthouse and GITHUB actions
 
-Dependencies: [List any dependencies that may impact the epic]
+Risks: Unfunctional website which is delivered without running any basic tests via devops process
 
-Risks: [List the potential risks and mitigation strategies]
+Estimated Effort: 2-3 weeks
 
-Estimated Effort: [Estimate the effort required to complete the epic]
+Business Value: Always functioning site
 
-Business Value: [Specify the business value that will be delivered by the epic]
-
-Priority: [Assign a priority to the epic]
+Priority: High
 
 # List stories related to this theme
-1. [Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. Create CICD[Story 1](documentation/templates/theme/initiatives/epics/stories/story_template2.md)
+2. Create testsuite[Story 2](documentation/templates/theme/initiatives/epics/stories/story_template3.md)
+3. Integrate CICD + testsuite[Story 3](documentation/templates/theme/initiatives/epics/stories/story_template4.md)

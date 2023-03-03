@@ -1,26 +1,27 @@
-"Title of the Initiative"
+"Create edu tech website for kids with legal standards/COPPA adherence and integrated google analytics to track user behaviour"
 
-Description: [A brief description of the initiative]
+Description: Create a website which adheres to COPPA / GDPR and has google analytics embedded
 
-Goals: [List the goals or objectives of the initiative]
+Goals:  Follow global standards to avoid legal issues
 
-Scope: [Define the scope of the initiative]
+Scope: Entire site must abide the standards
 
-Outcomes: [Describe the expected outcomes of the initiative]
+Outcomes: Tech ed Website which can be monitored with google analytics and GDPR scanner and w3cvalidation done
 
-Deliverables: [List the expected deliverables of the initiative]
+Deliverables: 1. A functional basic tech ed site
+              2. A compliant GDPR site with other standards
 
-Milestones: [List the major milestones and their timelines]
+Milestones: A functional site with google analytics embedded for 0.1.0 and other standards by 0.2.0
 
-Constraints: [Identify any constraints or limitations that may impact the initiative]
+Constraints: Knowledge on GDPR and legal standards
 
-Assumptions: [List any assumptions made about the initiative]
+Assumptions: MVP available for 0.1.0
 
-Risks: [List the potential risks and mitigation strategies]
+Risks: Legal penalties if not compliant. Lack of indepth knowledge to integrate the standards
 
-Dependencies: [List any dependencies that may impact the initiative]
+Dependencies: w3cValidation,COPPA,GDPR
 
-Team: [Identify the team members and their roles in the initiative]
+Team: Radhika Nanda
 
 # List epics related to this theme
-1. [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. Gloabal site Standards and  Legal standards[Epic 1](documentation/templates/theme/initiatives/epics/epic_template1.md)
