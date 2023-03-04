@@ -8,4 +8,4 @@ Implement end to end CI/CD with the help of github actions
 Brainstorm different CICD tools and choose as per organization needs
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template5.md)
+1. [Stories 1](tasks/task_template5.md)
