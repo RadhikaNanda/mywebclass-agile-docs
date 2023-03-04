@@ -1,4 +1,4 @@
-"As a Software Engineering student, I want to Webtech-educational website so that kids. By following the Lean and Agile methodologies, we can be quick and effective to deliver this website. This will enable to deliver simple and high quality kids learning environment"
+"As a Software Engineering student, I want to build a Webtech-educational website so that kids can learn easily. By following the Lean and Agile methodologies, we can be quick and effective to deliver this website. This will enable to deliver simple and high quality kids learning environment"
 
 
 
