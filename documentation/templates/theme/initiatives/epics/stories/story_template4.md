@@ -7,4 +7,4 @@ Integrate testsuite inside CICD devops process so that we have a functional site
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template7.md)
+1. [Stories 1](tasks/task_template7.md)

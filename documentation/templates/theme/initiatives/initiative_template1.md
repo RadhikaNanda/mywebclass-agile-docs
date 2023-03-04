@@ -24,4 +24,4 @@ Dependencies: GITHUB ACTIONS
 Team: Radhika Nanda
 
 # List epics related to this theme
-1. Create devops process [Epic 1](documentation/templates/theme/initiatives/epics/epic_template.md)
+1. Create devops process [Epic 1](epics/epic_template.md)

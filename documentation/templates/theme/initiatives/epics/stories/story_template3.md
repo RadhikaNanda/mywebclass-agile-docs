@@ -9,4 +9,4 @@ Use playwright and lighthouse test tools
 
 
 # List Stories related to this theme
-1. [Stories 1](documentation/templates/theme/initiatives/epics/stories/tasks/task_template6.md)
+1. [Stories 1](tasks/task_template6.md)

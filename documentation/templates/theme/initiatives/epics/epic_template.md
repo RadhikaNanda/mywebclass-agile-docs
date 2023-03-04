@@ -18,6 +18,6 @@ Business Value: Always functioning site
 Priority: High
 
 # List stories related to this theme
-1. Create CICD[Story 1](documentation/templates/theme/initiatives/epics/stories/story_template2.md)
-2. Create testsuite[Story 2](documentation/templates/theme/initiatives/epics/stories/story_template3.md)
-3. Integrate CICD + testsuite[Story 3](documentation/templates/theme/initiatives/epics/stories/story_template4.md)
+1. Create CICD[Story 1](stories/story_template2.md)
+2. Create testsuite[Story 2](stories/story_template3.md)
+3. Integrate CICD + testsuite[Story 3](stories/story_template4.md)
