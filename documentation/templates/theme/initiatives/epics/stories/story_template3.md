@@ -3,8 +3,8 @@
 
 Acceptance Criteria:
 
-Develop testcases
-Develop Testsuite
+Develop testcases to test all pages ans sections of webpage
+Develop Testsuite and classify testcases 
 Use playwright and lighthouse test tools
 
 
