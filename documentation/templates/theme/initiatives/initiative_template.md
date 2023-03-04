@@ -24,4 +24,4 @@ Dependencies: w3cValidation,COPPA,GDPR
 Team: Radhika Nanda
 
 # List epics related to this theme
-1. Global site Standards and  Legal standards[Epic 1](documentation/templates/theme/initiatives/epics/epic_template1.md)
+1. Global site Standards and  Legal standards[Epic 1](epics/epic_template1.md)

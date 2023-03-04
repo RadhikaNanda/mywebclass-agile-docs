@@ -21,4 +21,4 @@ Business Value: Site which is of global standard
 Priority: High
 
 # List stories related to this theme
-1. Googgle Analytics, GDPR,W3C validation and COPPA[Story 1](documentation/templates/theme/initiatives/epics/stories/story_template.md)
+1. Googgle Analytics, GDPR,W3C validation and COPPA[Story 1](stories/story_template.md)
